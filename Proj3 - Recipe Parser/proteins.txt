@@ -1,0 +1,51 @@
+Chicken
+Beef
+Turkey
+Duck
+Pork
+Lamb
+Goat
+Pheasant
+Rabbit
+Bison
+Venison
+Seafood
+Wild Boar
+Veal
+Seitan
+Tofu
+Tempeh
+Edamame
+Lentils
+Chickpeas
+Kidney beans
+Pinto beans
+garbanzo beans
+beans
+Hemp seeds
+Green peas
+Spirulina
+Steak
+Bacon
+Proscuitto
+Salami
+Pepperoni
+Sausage
+Meatballs
+shrimp
+oysters
+clams
+halibut
+salmon
+quinoa
+amaranth
+trout
+sardines
+lox
+crab
+lobster
+octopus
+calamari
+wild rice
+lentils
+egg
